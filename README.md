@@ -1,1 +1,1 @@
-# sign-language-recognition-app
+# Isolated Sign Language Recognition App
